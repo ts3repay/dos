@@ -32,7 +32,7 @@ dstat1()
     clear
     echo -e " ${PURPLE} "
 	echo "  +-----------------------------------------------------------------------+ "
-    echo "  ¦¦¦                          WEED DSTAT                              ¦¦¦ "
+    echo "  Â¦Â¦Â¦                          WEED DSTAT                              Â¦Â¦Â¦ "
     echo "  +-----------------------------------------------------------------------+ "                                                         
 dstat
     
@@ -43,7 +43,7 @@ admin12()
     clear
     echo -e " ${CYAN} "
 	echo "  +-----------------------------------------------------------------------+ "
-    echo "  ¦¦¦                          ADMIN PANEL                              ¦¦¦ "
+    echo "  Â¦Â¦Â¦                          ADMIN PANEL                              Â¦Â¦Â¦ "
     echo "  +-----------------------------------------------------------------------+ "                                                         
 echo "Im Sure You Can Create Your Own Panel :3"
 echo "If You Really Dont Know How You Can Contact Me On Skype"
@@ -61,15 +61,15 @@ killall()
     clear
     echo -e " ${BLUE} "
 	echo "  +-----------------------------------------------------------------------+ "
-    echo "  ¦¦¦                        PRIVATE VERSION 4.0 !                      ¦¦¦ "
+    echo "  Â¦Â¦Â¦                        PRIVATE VERSION 4.0 !                      Â¦Â¦Â¦ "
     echo "  +-----------------------------------------------------------------------+ "                                                         
-    echo -e "  ¦¦¦${CYAN}                              TITANIUM${CYAN}                             ¦¦¦ " 
-    echo -e "  ¦¦¦${CYAN}                               SCRIPT${CYAN}                              ¦¦¦ " 
-    echo -e "  ¦¦¦${CYAN}                                 BY${BLUE}                                ¦¦¦ "
-    echo -e "  ¦¦¦${BLUE}                            MODZ TITANIUM${GREEN}                          ¦¦¦ "
+    echo -e "  Â¦Â¦Â¦${CYAN}                              TITANIUM${CYAN}                             Â¦Â¦Â¦ " 
+    echo -e "  Â¦Â¦Â¦${CYAN}                               SCRIPT${CYAN}                              Â¦Â¦Â¦ " 
+    echo -e "  Â¦Â¦Â¦${CYAN}                                 BY${BLUE}                                Â¦Â¦Â¦ "
+    echo -e "  Â¦Â¦Â¦${BLUE}                            MODZ TITANIUM${GREEN}                          Â¦Â¦Â¦ "
     echo "  +-----------------------------------------------------------------------+ "
-    echo "  ¦¦¦                           Version 1.0                             ¦¦¦ "
-    echo "  ¦¦¦+--------------------------------------------------------------------¦ " 
+    echo "  Â¦Â¦Â¦                           Version 1.0                             Â¦Â¦Â¦ "
+    echo "  Â¦Â¦Â¦+--------------------------------------------------------------------Â¦ " 
 pkill gott.1.pl
 pkill gott.2.py
 pkill gott.2.pl
